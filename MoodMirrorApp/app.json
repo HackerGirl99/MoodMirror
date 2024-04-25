@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MoodMirrorApp",
+    "slug": "MoodMirrorApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MoodMirrorApp"
+}
